@@ -42,4 +42,14 @@ function summFunc (x, y){
 }
 console.log(rame.reduce(summFunc));
 
+// 4. აქ რატომღაც ყვლეაფერს კრიბავს.
+
+
+
+
+// 5. ბოლოს ამ მეთოდს მივაგენი მაგრა ვიწვალე რავი ავირ დავირიე.
+
+var str ="HELLO, WORLD, JS, GEOLAB";
+var newStr = str.replace("HELLO, WORLD, JS, GEOLAB","Hello World Js Geolab");
+console.log(newStr);
 
